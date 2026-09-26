@@ -20,7 +20,7 @@
 我是否在将此情况放在悬置状态来代替亲自参与解决？
 ```
 
-<details>
+<details open>
 <summary>后续可选</summary>
 
 ```
